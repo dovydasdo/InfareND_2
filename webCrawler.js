@@ -130,13 +130,8 @@ function getFlight(detailsText, text) {
     waitUntil: "networkidle2",
   });
   await page.setCookie(...cookies);
-
-  await sleep(3000);
-
-  await page.cookies("https://classic.flysas.com/en/de");
   await sleep(3000);
   await page.reload({ waitUntil: ["networkidle0", "domcontentloaded"] });
-
   await sleep(3000);
 
   await page.evaluate(() => {
