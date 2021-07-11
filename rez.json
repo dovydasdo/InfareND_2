@@ -1,0 +1,254 @@
+[
+    {
+        "to": {
+            "depAirport": "ARN",
+            "arrAirport": "LHR",
+            "connAirport": "none",
+            "depTime": "2021-09-08 15:25",
+            "arrTime": "2021-09-08 17:00",
+            "price": 59.69
+        },
+        "from": {
+            "depAirport": "LHR",
+            "arrAirport": "ARN",
+            "connAirport": "none",
+            "depTime": "2021-09-15 10:35",
+            "arrTime": "2021-09-15 14:10",
+            "price": 83.91
+        }
+    },
+    {
+        "to": {
+            "depAirport": "ARN",
+            "arrAirport": "LHR",
+            "connAirport": "none",
+            "depTime": "2021-09-08 15:25",
+            "arrTime": "2021-09-08 17:00",
+            "price": 59.69
+        },
+        "from": {
+            "depAirport": "LHR",
+            "arrAirport": "ARN",
+            "connAirport": "none",
+            "depTime": "2021-09-15 13:55",
+            "arrTime": "2021-09-15 17:25",
+            "price": 83.91
+        }
+    },
+    {
+        "to": {
+            "depAirport": "ARN",
+            "arrAirport": "LHR",
+            "connAirport": "none",
+            "depTime": "2021-09-08 15:25",
+            "arrTime": "2021-09-08 17:00",
+            "price": 59.69
+        },
+        "from": {
+            "depAirport": "LHR",
+            "arrAirport": "ARN",
+            "connAirport": "none",
+            "depTime": "2021-09-15 18:05",
+            "arrTime": "2021-09-15 21:35",
+            "price": 83.91
+        }
+    },
+    {
+        "to": {
+            "depAirport": "ARN",
+            "arrAirport": "LHR",
+            "connAirport": "none",
+            "depTime": "2021-09-08 15:25",
+            "arrTime": "2021-09-08 17:00",
+            "price": 59.69
+        },
+        "from": {
+            "depAirport": "LHR",
+            "arrAirport": "ARN",
+            "connAirport": "OSL",
+            "depTime": "2021-09-15 10:20",
+            "arrTime": "2021-09-15 15:15",
+            "price": 98.49
+        }
+    },
+    {
+        "to": {
+            "depAirport": "ARN",
+            "arrAirport": "LHR",
+            "connAirport": "none",
+            "depTime": "2021-09-08 15:25",
+            "arrTime": "2021-09-08 17:00",
+            "price": 59.69
+        },
+        "from": {
+            "depAirport": "LHR",
+            "arrAirport": "ARN",
+            "connAirport": "OSL",
+            "depTime": "2021-09-15 10:20",
+            "arrTime": "2021-09-15 16:45",
+            "price": 98.49
+        }
+    },
+    {
+        "to": {
+            "depAirport": "ARN",
+            "arrAirport": "LHR",
+            "connAirport": "none",
+            "depTime": "2021-09-08 15:25",
+            "arrTime": "2021-09-08 17:00",
+            "price": 59.69
+        },
+        "from": {
+            "depAirport": "LHR",
+            "arrAirport": "ARN",
+            "connAirport": "OSL",
+            "depTime": "2021-09-15 15:35",
+            "arrTime": "2021-09-15 22:25",
+            "price": 98.49
+        }
+    },
+    {
+        "to": {
+            "depAirport": "ARN",
+            "arrAirport": "LHR",
+            "connAirport": "none",
+            "depTime": "2021-09-08 15:25",
+            "arrTime": "2021-09-08 17:00",
+            "price": 59.69
+        },
+        "from": {
+            "depAirport": "LHR",
+            "arrAirport": "ARN",
+            "connAirport": "OSL",
+            "depTime": "2021-09-15 17:30",
+            "arrTime": "2021-09-15 22:25",
+            "price": 98.49
+        }
+    },
+    {
+        "to": {
+            "depAirport": "ARN",
+            "arrAirport": "LHR",
+            "connAirport": "OSL",
+            "depTime": "2021-09-08 12:45",
+            "arrTime": "2021-09-08 16:25",
+            "price": 74.27
+        },
+        "from": {
+            "depAirport": "LHR",
+            "arrAirport": "ARN",
+            "connAirport": "none",
+            "depTime": "2021-09-15 10:35",
+            "arrTime": "2021-09-15 14:10",
+            "price": 83.91
+        }
+    },
+    {
+        "to": {
+            "depAirport": "ARN",
+            "arrAirport": "LHR",
+            "connAirport": "OSL",
+            "depTime": "2021-09-08 12:45",
+            "arrTime": "2021-09-08 16:25",
+            "price": 74.27
+        },
+        "from": {
+            "depAirport": "LHR",
+            "arrAirport": "ARN",
+            "connAirport": "none",
+            "depTime": "2021-09-15 13:55",
+            "arrTime": "2021-09-15 17:25",
+            "price": 83.91
+        }
+    },
+    {
+        "to": {
+            "depAirport": "ARN",
+            "arrAirport": "LHR",
+            "connAirport": "OSL",
+            "depTime": "2021-09-08 12:45",
+            "arrTime": "2021-09-08 16:25",
+            "price": 74.27
+        },
+        "from": {
+            "depAirport": "LHR",
+            "arrAirport": "ARN",
+            "connAirport": "none",
+            "depTime": "2021-09-15 18:05",
+            "arrTime": "2021-09-15 21:35",
+            "price": 83.91
+        }
+    },
+    {
+        "to": {
+            "depAirport": "ARN",
+            "arrAirport": "LHR",
+            "connAirport": "OSL",
+            "depTime": "2021-09-08 12:45",
+            "arrTime": "2021-09-08 16:25",
+            "price": 74.27
+        },
+        "from": {
+            "depAirport": "LHR",
+            "arrAirport": "ARN",
+            "connAirport": "OSL",
+            "depTime": "2021-09-15 10:20",
+            "arrTime": "2021-09-15 15:15",
+            "price": 98.49
+        }
+    },
+    {
+        "to": {
+            "depAirport": "ARN",
+            "arrAirport": "LHR",
+            "connAirport": "OSL",
+            "depTime": "2021-09-08 12:45",
+            "arrTime": "2021-09-08 16:25",
+            "price": 74.27
+        },
+        "from": {
+            "depAirport": "LHR",
+            "arrAirport": "ARN",
+            "connAirport": "OSL",
+            "depTime": "2021-09-15 10:20",
+            "arrTime": "2021-09-15 16:45",
+            "price": 98.49
+        }
+    },
+    {
+        "to": {
+            "depAirport": "ARN",
+            "arrAirport": "LHR",
+            "connAirport": "OSL",
+            "depTime": "2021-09-08 12:45",
+            "arrTime": "2021-09-08 16:25",
+            "price": 74.27
+        },
+        "from": {
+            "depAirport": "LHR",
+            "arrAirport": "ARN",
+            "connAirport": "OSL",
+            "depTime": "2021-09-15 15:35",
+            "arrTime": "2021-09-15 22:25",
+            "price": 98.49
+        }
+    },
+    {
+        "to": {
+            "depAirport": "ARN",
+            "arrAirport": "LHR",
+            "connAirport": "OSL",
+            "depTime": "2021-09-08 12:45",
+            "arrTime": "2021-09-08 16:25",
+            "price": 74.27
+        },
+        "from": {
+            "depAirport": "LHR",
+            "arrAirport": "ARN",
+            "connAirport": "OSL",
+            "depTime": "2021-09-15 17:30",
+            "arrTime": "2021-09-15 22:25",
+            "price": 98.49
+        }
+    }
+]
